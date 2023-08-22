@@ -26,14 +26,14 @@ function Home() {
                 <CustomCarousel />
 
                 <div className="relative flex flex-wrap justify-between mt-10">
-                  <div class="bg-red-300 px-[20px] py-[35px] w-[276px]">
-                    <div class="">
+                  <div className="bg-red-300 px-[20px] py-[35px] w-[276px]">
+                    <div className="">
                       <img src="/src/assets/images/115968-9536d100.png" />
                     </div>
-                    <h4 class="u-align-center u-text u-text-palette-4-base u-text-3">
+                    <h4 className="u-align-center u-text u-text-palette-4-base u-text-3">
                       Rekomendasi Broker Berlisensi
                     </h4>
-                    <p class="u-align-center u-text u-text-grey-50 u-text-4">
+                    <p className="u-align-center u-text u-text-grey-50 u-text-4">
                       Vplus membantu para trader menemukan broker yang legal dan
                       berlisensi.
                       <br />
