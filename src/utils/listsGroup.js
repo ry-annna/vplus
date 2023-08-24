@@ -1,3 +1,7 @@
+import miniaccount from "/src/assets/images/miniaccount.jpg";
+import TradingdiVplus from "/src/assets/images/TradingdiVplus.jpg";
+import kenalan_trading from "/src/assets/images/kenalan trading.jpeg";
+
 export const TickerSymbolsVplus = [
   {
     proName: "FOREXCOM:XAUUSD",
@@ -32,10 +36,6 @@ export const TickerSymbolsVplus = [
     title: "USD/CHF",
   },
 ];
-
-import miniaccount from "/src/assets/images/miniaccount.jpg";
-import TradingdiVplus from "/src/assets/images/TradingdiVplus.jpg";
-import kenalan_trading from "/src/assets/images/kenalan trading.jpeg";
 
 export const MainContentLists = [
   {
