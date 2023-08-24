@@ -39,22 +39,22 @@ export const TickerSymbolsVplus = [
 
 export const MainContentLists = [
   {
-    src: {},
+    src: "/src/assets/images/miniaccount.jpg",
     headline: "Reward Logam Mulia",
     desc: "Dapatkan Reward Logam Mulia seberat 5 Gram dengan bergabung menjadi nasabah Vplus dan bertransaksi sebanyak-banyaknya.",
   },
   {
-    src: { TradingdiVplus },
+    src: TradingdiVplus,
     headline: "title 2",
     desc: "contoh teks deskripsi 2",
   },
   {
-    src: { kenalan_trading },
+    src: kenalan_trading,
     headline: "TRADING ITU APA SIH?",
     desc: "Dilansir dari Investopedia, trading umumnya sebuah konsep ekonomi dasar berupa kegiatan jual beli barang maupun jasa. Benefit yang diterima dari aktivitas trading diperoleh melalui kompensasi yang dibayarkan pembeli pada penjual, atau barang maupun jasa yang dipertukarkan antara dua pihak.",
   },
   {
-    src: { TradingdiVplus },
+    src: TradingdiVplus,
     headline: "title 4",
     desc: "contoh teks deskripsi 4",
   },
