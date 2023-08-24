@@ -39,7 +39,7 @@ export const TickerSymbolsVplus = [
 
 export const MainContentLists = [
   {
-    src: "/src/assets/images/miniaccount.jpg",
+    src: miniaccount,
     headline: "Reward Logam Mulia",
     desc: "Dapatkan Reward Logam Mulia seberat 5 Gram dengan bergabung menjadi nasabah Vplus dan bertransaksi sebanyak-banyaknya.",
   },
