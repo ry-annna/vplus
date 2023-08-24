@@ -1,7 +1,7 @@
 import ButtonAkun from "../components/buttonAkun";
 import MultiLevelDropdown from "./sidebar";
 import { useState } from "react";
-import reactLogo from "../assets/images/vplus.png";
+import vplus from "../assets/images/vplus.png";
 
 const CustomNavbar = () => {
   const [toggle, setToggle] = useState(false);
@@ -12,7 +12,7 @@ const CustomNavbar = () => {
         {/* LOGO */}
         <a href="#" className="flex items-center duration-200 hover:scale-110 ">
           <img
-            src={reactLogo}
+            src={vplus}
             className="xl:h-[70px] max-sm:h-[50px] max-sm:p-1 mr-3 min-[640px]:h-[50px]"
             alt="Vplus logo"
           />
